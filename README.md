@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Gitesh (｡･ω･)ﾉ</h1>
+<h1 align="center">Hi! I'm Gitesh (･ω･)ﾉ</h1>
 <p align="center">
   <img src="https://i.pinimg.com/1200x/19/6c/33/196c33248ac8c1ec7acabedb80edfb88.jpg" alt="Banner" width="80%">
 </p>
