@@ -9,7 +9,7 @@
 ### 🌟 About Me
 - 🔭 Trying to get some work done
 - 🌱 I’m currently learning DSA and all about AI
-- ✨ I play games (a little too much)
+- ✨ I like playing videogames
 
 ---
 
