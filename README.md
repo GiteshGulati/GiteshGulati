@@ -15,7 +15,7 @@
 
 ### 💻 Languages and Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,matlab,js,cpp,vscode" />
 </p>
 
 ---
