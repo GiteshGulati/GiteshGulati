@@ -8,14 +8,6 @@
 
 ### 🌟 About Me
 - 🔭 Trying to get some work done
-- 🌱 I’m currently learning DSA and all about AI
-- ✨ I like playing videogames
 
 ---
 
-### 💻 Languages and Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=python,matlab,js,cpp,vscode" />
-</p>
-
----
